@@ -1,0 +1,161 @@
+[{
+  "logId" : 30964357668,
+  "loggedFood" : {
+    "foodId" : 698385495,
+    "locale" : "en_IN",
+    "name" : "Chocos",
+    "brand" : "Kellogg's",
+    "accessLevel" : "PUBLIC",
+    "units" : [36585,81800,226,180,147,389],
+    "calories" : 116,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 36585,
+      "name" : "serving",
+      "plural" : "serving"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2023-02-23",
+  "favorite" : false
+},{
+  "logId" : 30947598890,
+  "loggedFood" : {
+    "foodId" : 698359063,
+    "locale" : "en_IN",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [36899,36900,36901,36560,36480,36924,36926,71583,71585,71584,36923,68547,39681,70738,70739,36562,36925,36474,69343,36927,226,180,147,389],
+    "calories" : 72,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 36899,
+      "name" : "medium  (2-3/4\" dia) (approx 3 per lb)",
+      "plural" : "medium  (2-3/4\" dia) (approx 3 per lb)"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2023-02-21",
+  "favorite" : false
+},{
+  "logId" : 30946851661,
+  "loggedFood" : {
+    "foodId" : 698367235,
+    "locale" : "en_IN",
+    "name" : "Tea (Instant Powder, Unsweetened, Prepared)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [38589,68446,36655,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 2,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 38589,
+      "name" : "cup (8 fl oz)",
+      "plural" : "cup (8 fl oz)"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2023-02-21",
+  "favorite" : false
+},{
+  "logId" : 30951550548,
+  "loggedFood" : {
+    "foodId" : 698359269,
+    "locale" : "en_IN",
+    "name" : "Cashew Nuts",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [37071,36498,72417,72418,37070,47891,226,180,147,389],
+    "calories" : 581,
+    "amount" : 100.04,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2023-02-21",
+  "favorite" : false
+},{
+  "logId" : 30948591996,
+  "loggedFood" : {
+    "foodId" : 698372345,
+    "locale" : "en_IN",
+    "name" : "Tea with Milk",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [40652,40335,39077,36655,68352,68350,68351,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 17,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 40652,
+      "name" : "teacup (6 fl oz)",
+      "plural" : "teacup (6 fl oz)"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2023-02-21",
+  "favorite" : false
+},{
+  "logId" : 30946901044,
+  "loggedFood" : {
+    "foodId" : 698456295,
+    "locale" : "en_IN",
+    "name" : "Chickpeas",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [36462,39490,39492,39493,36530,39489,72242,39491,72225,72226,39494,71413,226,180,147,389],
+    "calories" : 295,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 36462,
+      "name" : "cup",
+      "plural" : "cup"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2023-02-21",
+  "favorite" : false
+},{
+  "logId" : 30946626102,
+  "loggedFood" : {
+    "foodId" : 698439540,
+    "locale" : "en_IN",
+    "name" : "Grapes (Red or Green, European Type Varieties Such As Thompson Seedless)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [48256,48258,37202,48257,48259,48260,226,180,147,389],
+    "calories" : 110,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 48256,
+      "name" : "cup, seedless",
+      "plural" : "cup, seedless"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2023-02-21",
+  "favorite" : false
+},{
+  "logId" : 30947490802,
+  "loggedFood" : {
+    "foodId" : 698385495,
+    "locale" : "en_IN",
+    "name" : "Chocos",
+    "brand" : "Kellogg's",
+    "accessLevel" : "PUBLIC",
+    "units" : [36585,81800,226,180,147,389],
+    "calories" : 116,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 36585,
+      "name" : "serving",
+      "plural" : "serving"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2023-02-21",
+  "favorite" : false
+}]

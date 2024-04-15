@@ -1,0 +1,121 @@
+[{
+  "dateTime" : "09/11/22 22:02:38",
+  "value" : {
+    "bpm" : 102,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "09/11/22 22:02:43",
+  "value" : {
+    "bpm" : 105,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "09/11/22 22:02:48",
+  "value" : {
+    "bpm" : 104,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/11/22 22:02:53",
+  "value" : {
+    "bpm" : 105,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/11/22 22:02:58",
+  "value" : {
+    "bpm" : 111,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/11/22 22:03:03",
+  "value" : {
+    "bpm" : 107,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/11/22 22:03:08",
+  "value" : {
+    "bpm" : 108,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/11/22 22:03:13",
+  "value" : {
+    "bpm" : 104,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/11/22 22:03:18",
+  "value" : {
+    "bpm" : 102,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/11/22 22:03:23",
+  "value" : {
+    "bpm" : 99,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/11/22 22:03:28",
+  "value" : {
+    "bpm" : 101,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/11/22 22:03:33",
+  "value" : {
+    "bpm" : 105,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/11/22 22:03:43",
+  "value" : {
+    "bpm" : 104,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/12/22 07:56:10",
+  "value" : {
+    "bpm" : 102,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "09/12/22 07:56:15",
+  "value" : {
+    "bpm" : 104,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "09/12/22 07:56:20",
+  "value" : {
+    "bpm" : 106,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "09/12/22 07:56:25",
+  "value" : {
+    "bpm" : 105,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/12/22 07:56:30",
+  "value" : {
+    "bpm" : 102,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/12/22 07:56:35",
+  "value" : {
+    "bpm" : 108,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "09/12/22 07:56:40",
+  "value" : {
+    "bpm" : 113,
+    "confidence" : 1
+  }
+}]
